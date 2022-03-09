@@ -38,19 +38,13 @@ public class MapObjectMLibreNG extends ClaseBase
 	protected By CreaCuentas = By.xpath("//div[@class = 'andes-form-control__control']");
 	
 	protected By Message =By.xpath("//*[@id=\"max-attempts\"]/div[2]/p");	
-	
-	
+		
 	// INGRESAR MAIL
-		protected By txtIngresarEmailML1 = By.xpath("//input[@name='email']");
-		// BTN INGRESAR MAIL
-		protected By btnIngresarEMailML1 = By.xpath("//span[@class='andes-button__content']");
+	protected By txtIngresarEmailML1 = By.xpath("//input[@name='email']");
+	// BTN INGRESAR MAIL
+	protected By btnIngresarEMailML1 = By.xpath("//span[@class='andes-button__content']");
 	
-	
-	
-	
-	
-	
-	
+
   @Test
   public void f() {
   }
