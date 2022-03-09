@@ -2,7 +2,7 @@ package MapsObjet;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.Test;
+// import org.testng.annotations.Test;
 
 import com.testNG.ClaseBase;
 
